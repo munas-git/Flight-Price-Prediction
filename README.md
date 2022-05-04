@@ -1,4 +1,3 @@
 # flight-price-prediction
- This Repo contains my research result for a dataset I found on Kaggle
- link to DataSet:
+ Flight price prediction project (regression) with data set from kaggle at:
   https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
